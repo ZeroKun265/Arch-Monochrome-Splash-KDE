@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=A simple Monochrome Arch Splashscreen
+Name=Arch-Monochrome-Splash
+Encoding=UTF-8
+Keywords=Appearance;Look and Feel
+
+Type=Service
+
+X-KDE-PluginInfo-Author=ZeroKun265
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=zerokunbusiness@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=Arch-Monochrome-Splash
+X-KDE-PluginInfo-Version=1.0
+X-KDE-ServiceTypes=Plasma/LookAndFeel
