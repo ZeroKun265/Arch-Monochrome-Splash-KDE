@@ -7,5 +7,5 @@ How to install:
 2. Move the src folder to the themes folder with the command `mv /path/to/src $HOME/.local/share/plasma/look-and-feel/Arch-Monochrome-Splash`
 
 ### Sources
-Wallpaper provided by [Jhook2015 on wallpapercave](https://wallpapercave.com/u/jhook2015), didn't know how to ask permission so i'll just credit him
-Check out [Amethyst theme](https://store.kde.org/p/1799596), the one i used as a base for this and my old daily driver for around 5 months, really cool
++ Wallpaper provided by [Jhook2015 on wallpapercave](https://wallpapercave.com/u/jhook2015), didn't know how to ask permission so i'll just credit him
++ Check out [Amethyst theme](https://store.kde.org/p/1799596), the one i used as a base for this and my old daily driver for around 5 months, really cool
